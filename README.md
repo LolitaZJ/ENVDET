@@ -9,8 +9,10 @@ Ji Zhang
 ENVDET is a pipline to achieve earthquake detection.  
 ENVDET consists of ENVnet and DETnet
 
+### ENVnet and DETnet architectures
 ![ENVDET_NET](https://user-images.githubusercontent.com/41277021/216076038-0800f5f3-c4b6-4810-abd1-bc8989bead59.png)
 
+### Analysis of signal-to-noise ratio and frequency band
 ![Analysis of signal-to-noise ratio and frequency band](https://user-images.githubusercontent.com/41277021/216076593-a2a969cd-55a8-4a2a-bd8f-bb6adb9e0150.png)
 
 ## ENVnet

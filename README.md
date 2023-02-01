@@ -7,7 +7,9 @@ Ji Zhang
 # ENVDET 
 
 ENVDET is a pipline to achieve earthquake detection.  
-ENVDET consists of ENVnet and DETnet
+ENVDET consists of ENVnet and DETnet.
+
+`Zhang J. and Zhang J. 2022. Detect small earthquakes by waveform envelope using machine learning.`
 
 ### ENVnet and DETnet architectures
 ![ENVDET_NET](https://user-images.githubusercontent.com/41277021/216076038-0800f5f3-c4b6-4810-abd1-bc8989bead59.png)
@@ -17,7 +19,7 @@ ENVDET consists of ENVnet and DETnet
 
 ## ENVnet
 
-ENVnet can get envelopes of waveforms while enhancingdata features and suppressing  noise.  
+ENVnet can get envelopes of waveforms while enhancingdata features and suppressing noise.  
 
 ###Usage
 
